@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.container,
+img {
+    padding: 15px;
+    font-size: 20px;
+}
+
+button {
+    width: 120px;
+    height: 50px;
+    margin: 10px;
+}
+
+.badge-points {
+    font-size: 25px;
+}
